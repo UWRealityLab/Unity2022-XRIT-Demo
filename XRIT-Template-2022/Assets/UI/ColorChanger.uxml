@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/simple.uss?fileID=7433441132597879392&amp;guid=c9f9e63450dfe16498a70439d75e1904&amp;type=3#simple" />
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1; background-color: rgb(183, 129, 11); height: 241px;">
+        <ui:Label tabindex="-1" text="Use these options to change the color of the cube in front of you." parse-escape-sequences="true" display-tooltip-when-elided="true" style="white-space: normal; padding-left: 10px; padding-right: 10px;" />
+        <ui:Button text="Blue" parse-escape-sequences="true" display-tooltip-when-elided="true" name="ButtonBlue" class="button" />
+        <ui:Button text="Red" parse-escape-sequences="true" display-tooltip-when-elided="true" name="ButtonRed" class="button" />
+        <ui:Button text="Random" parse-escape-sequences="true" display-tooltip-when-elided="true" name="ButtonRandom" class="button" />
+    </ui:VisualElement>
+</ui:UXML>

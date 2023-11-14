@@ -1,0 +1,19 @@
+.button {
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=eb50abc5bc1588f4f8db9781869891a1&type=3#NotInter-Regular');
+    -unity-font-style: bold;
+    font-size: 20px;
+    -unity-text-align: upper-center;
+    border-left-color: rgb(200, 83, 25);
+    border-right-color: rgb(200, 83, 25);
+    border-top-color: rgb(200, 83, 25);
+    border-bottom-color: rgb(200, 83, 25);
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-color: rgb(243, 177, 79);
+}
